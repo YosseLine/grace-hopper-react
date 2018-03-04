@@ -1,0 +1,30 @@
+.Summary{
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+  margin-top: 15px;
+}
+.Img-width{
+  width: 100%;
+}
+.Summary-table{
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  padding:  1px;
+  font-size: 13px;
+}
+
+.Summary-table thead th{
+  background-color: #80C4DE;
+  padding-top: 3px;
+  padding-bottom:  3px;
+  font-size: 14px;
+}
+
+.Summary-table tbody tr:first-child{
+  text-align: center;
+}
+
+.Summary-table tbody th{
+  text-align: left;
+}
